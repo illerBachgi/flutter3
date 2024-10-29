@@ -1,0 +1,9 @@
+README
+이 프로젝트에 대해 설명합니다.
+
+
+1.
+git add .
+
+2.
+git commit -m 'first commit and make a README'
